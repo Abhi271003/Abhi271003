@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electronics and Communications
 - 💞️ I’m looking to collaborate on Programming,Electronics Projects
 - 📫 How to reach me abhinay271003@outlook.com
--                     abhinay271003@gmail.com
+-                     
 
 <!---
 Abhi271003/Abhi271003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
