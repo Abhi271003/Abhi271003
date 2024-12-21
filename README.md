@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi271003
+- 👋 Hi, I’m @Abhinay.Duggaraju
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Electronics and Communications
 - 💞️ I’m looking to collaborate on Programming,Electronics Projects
